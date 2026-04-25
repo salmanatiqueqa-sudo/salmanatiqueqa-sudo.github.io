@@ -50,9 +50,7 @@ This study analyzes **856 structured healthcare claims** using a hybrid evaluati
 | Cancer Patients | **89 percent higher denial likelihood** |
 | Age 65 and Above Error Rate | **18.7 percent** |
 
-The research highlights structural limitations in automated decision systems, particularly the inability to incorporate contextual urgency and policy-based exceptions in emergency scenarios.
-
-**Full paper:** [Download PDF](https://raw.githubusercontent.com/salmanatiqueqa-sudo/salmanatiqueqa-sudo.github.io/main/Atique_When_AI_Says_No_Healthcare_Risk.pdf)
+**Conclusion:** AI systems in healthcare claims processing exhibit severe context blindness, treating all errors as equal while failing to recognize emergency overrides and policy exceptions. This creates a systemic risk where efficiency is prioritized over safety. The findings call for mandatory human review of emergency denials, bias audits, and risk-tiered evaluation standards before deployment in critical healthcare environments.
 
 ---
 
@@ -66,9 +64,7 @@ This paper introduces a severity-aware framework to detect high-impact failures 
 | Medium Risk | 3x weight | Ambiguous loan advice |
 | Low Risk | 1x weight | Informational error |
 
-Key finding: Models pass low-risk evaluations but fail under high-risk prompts - capability does not imply safety.
-
-**Full paper:** [Download PDF](https://raw.githubusercontent.com/salmanatiqueqa-sudo/salmanatiqueqa-sudo.github.io/main/Atique_Risk_Tiered_Safety_Evaluation%28424%29.pdf)
+**Conclusion:** Current LLM evaluation benchmarks fail to distinguish between minor inaccuracies and high-severity harmful outputs. Models that pass generic capability tests can fail catastrophically under high-risk conditions. A risk-tiered evaluation approach is essential for safe deployment in regulated domains like finance and healthcare, where high-risk failures must carry disproportionate weight in safety assessments.
 
 ---
 
