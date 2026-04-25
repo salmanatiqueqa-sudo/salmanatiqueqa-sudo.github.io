@@ -52,7 +52,7 @@ This study analyzes **856 structured healthcare claims** using a hybrid evaluati
 
 The research highlights structural limitations in automated decision systems, particularly the inability to incorporate contextual urgency and policy-based exceptions in emergency scenarios.
 
-**Full paper:** [Read When AI Says No](https://salmanatiqueqa-sudo.github.io/ai-healthcare-risk/)
+**Full paper:** [Download PDF](https://raw.githubusercontent.com/salmanatiqueqa-sudo/salmanatiqueqa-sudo.github.io/main/Atique_When_AI_Says_No_Healthcare_Risk.pdf)
 
 ---
 
@@ -68,7 +68,7 @@ This paper introduces a severity-aware framework to detect high-impact failures 
 
 Key finding: Models pass low-risk evaluations but fail under high-risk prompts - capability does not imply safety.
 
-**Full paper:** [Read Risk-Tiered Safety Evaluation](https://salmanatiqueqa-sudo.github.io/ai-llm-risk-evaluation/)
+**Full paper:** [Download PDF](https://raw.githubusercontent.com/salmanatiqueqa-sudo/salmanatiqueqa-sudo.github.io/main/Atique_Risk_Tiered_Safety_Evaluation%28424%29.pdf)
 
 ---
 
