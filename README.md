@@ -1,48 +1,42 @@
-# 👋 Hi, I'm Salman Atique
+Salman Atique  
+AI Safety and Risk Governance Researcher  
 
-## AI Safety & Risk Governance Researcher
+I focus on AI safety, risk evaluation, and the governance of large language models in high-stakes domains, including healthcare and finance. My work is centered on bridging technical model behavior with real-world operational, institutional, and regulatory requirements.
 
-I specialize in **AI safety**, **risk evaluation**, and the governance of large language models in high-stakes domains including healthcare and finance.
+Research Focus  
 
----
+Risk-aware evaluation frameworks for AI decision systems  
+Context blindness and failure patterns in automated decision-making  
+Bias detection and disparity analysis in high-severity AI applications  
+Alignment of AI systems with governance frameworks and regulatory standards  
 
-### 🔍 What I'm working on
+Current Research  
 
-- Risk-aware evaluation frameworks for AI decision systems
-- Context blindness and disparities in automated healthcare approvals
-- Bridging technical model assessment with operational & regulatory requirements
+When AI Says No: The Hidden Risk in Automated Healthcare Approvals  
 
----
+This study analyzes 856 structured healthcare claims using a hybrid evaluation framework combining rule-based ground truth modeling with AI decision simulation.  
 
-### 📊 Current Research
+Key findings include an overall error rate of 12.3 percent and incorrect handling of approximately one in seven emergency cases. The analysis identifies systematic disparities across high-risk populations, including significantly elevated denial likelihood for cancer patients and higher error rates among individuals aged 65 and above.  
 
-**"When AI Says No: The Hidden Risk in Automated Healthcare Approvals"**
+The research highlights structural limitations in automated decision systems, particularly the inability to incorporate contextual urgency and policy-based exceptions in emergency scenarios.  
 
-- 856 claims analyzed | 12.3% error rate | 8.5% emergency denials
-- Systematic disparities: Cancer (+89%), Age 65+ (18.7% error)
-- Aligned with NIST AI RMF, WHO Ethics & Governance, FDA GMLP
+Framework Alignment  
 
-📄 [View the full research](https://salmanatiqueqa-sudo.github.io/ai-healthcare-risk/)
+This work is aligned with established AI governance and safety frameworks, including the National Institute of Standards and Technology AI Risk Management Framework (AI RMF 1.0), the World Health Organization guidance on Ethics and Governance of AI for Health (2021), and the United States Food and Drug Administration principles for Good Machine Learning Practice in AI/ML-based Software as a Medical Device.  
 
----
+Focus Areas  
 
-### 📫 Contact
+AI Safety: High-severity decision systems  
+Risk Governance: Alignment with regulatory and institutional frameworks  
+Healthcare AI: Claims processing and emergency decision pathways  
+LLM Evaluation: Context awareness, bias detection, and failure analysis  
 
-- 📧 salman.atique.qa@gmail.com
-- 📞 +92 323 3390601 (WhatsApp)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/salman-atique03233390601/)
+Contact  
 
----
+Email: salman.atique.qa@gmail.com  
+Phone: +92 323 3390601  
+LinkedIn: https://www.linkedin.com/in/salman-atique03233390601/  
 
-### 🛠️ Focus Areas
+Collaboration  
 
-| Area | Application |
-|------|-------------|
-| AI Safety | High-stakes decision systems |
-| Risk Governance | NIST/WHO/FDA alignment |
-| Healthcare AI | Claims processing, emergency care |
-| LLM Evaluation | Context blindness, bias detection |
-
----
-
-⭐ *Open to research collaborations and discussions on AI safety & risk governance.*
+Open to research collaboration, policy engagement, and applied work in AI safety, healthcare AI, and risk governance.
