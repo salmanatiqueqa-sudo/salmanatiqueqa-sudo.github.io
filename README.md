@@ -13,7 +13,7 @@
   <em>Bridging technical model behavior with real-world operational, institutional, and regulatory requirements</em>
 </p>
 
----
+<br>
 
 ## About Me
 
@@ -21,7 +21,7 @@ I focus on **AI safety**, **risk evaluation**, and the **governance of large lan
 
 My approach is grounded in 20+ years of experience in quality assurance, compliance monitoring, rubric-based evaluation, and risk assessment across banking, healthcare, and market research.
 
----
+<br>
 
 ## Professional Experience
 
@@ -32,7 +32,7 @@ My approach is grounded in 20+ years of experience in quality assurance, complia
 | Project Manager - Client Sales and Service | Nielsen | Jan 2007 - Sep 2019 |
 | Head of Quality Control - Field Operations | Nielsen | Jan 2004 - Dec 2006 |
 
----
+<br>
 
 ## Research Focus
 
@@ -41,7 +41,7 @@ My approach is grounded in 20+ years of experience in quality assurance, complia
 - Bias detection and disparity analysis in high-severity AI applications
 - Alignment of AI systems with governance frameworks and regulatory standards
 
----
+<br>
 
 ## Current Research
 
@@ -60,7 +60,7 @@ The research highlights structural limitations in automated decision systems, pa
 
 **Full paper:** [Read When AI Says No](https://salmanatiqueqa-sudo.github.io/ai-healthcare-risk/)
 
----
+<br>
 
 ### Risk-Tiered Safety Evaluation of Large Language Models in Finance and Healthcare
 
@@ -76,7 +76,7 @@ Key finding: Models pass low-risk evaluations but fail under high-risk prompts -
 
 **Full paper:** [Read Risk-Tiered Safety Evaluation](https://salmanatiqueqa-sudo.github.io/ai-llm-risk-evaluation/)
 
----
+<br>
 
 ## Framework Alignment
 
@@ -88,7 +88,7 @@ This work is aligned with established AI governance and safety frameworks:
 | **WHO Ethics and Governance of AI for Health (2021)** | Transparency, accountability, human oversight |
 | **FDA Good Machine Learning Practice** | Lifecycle validation and safety monitoring |
 
----
+<br>
 
 ## Focus Areas
 
@@ -100,7 +100,7 @@ This work is aligned with established AI governance and safety frameworks:
 | **LLM Evaluation** | Context awareness, bias detection, and failure analysis |
 | **AI Quality Assurance** | Rubric design, HITL systems, output evaluation |
 
----
+<br>
 
 ## Contact
 
@@ -116,13 +116,13 @@ This work is aligned with established AI governance and safety frameworks:
   </a>
 </p>
 
----
+<br>
 
 ## Collaboration
 
 Open to research collaboration, policy engagement, and applied work in AI safety, healthcare AI, AI quality assurance, and risk governance.
 
----
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=salmanatiqueqa-sudo&label=Profile%20Views&color=F5A623&style=flat" alt="Profile views" />
