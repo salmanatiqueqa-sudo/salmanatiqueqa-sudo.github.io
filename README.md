@@ -6,7 +6,7 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=500&color=F5A623&center=true&vCenter=true&width=600&lines=Salman+Atique;AI+Safety+and+Risk+Governance+Researcher" alt="Salman Atique - AI Safety and Risk Governance Researcher" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=500&color=F5A623&center=true&vCenter=true&width=700&lines=Salman+Atique;AI+Quality+Assurance+%7C+Risk+Evaluation+%7C+Safety+Researcher" alt="Salman Atique - AI Quality Assurance, Risk Evaluation, and Safety Researcher" />
 </p>
 
 <p align="center">
@@ -18,6 +18,19 @@
 ## About Me
 
 I focus on **AI safety**, **risk evaluation**, and the **governance of large language models** in high-stakes domains, including healthcare and finance. My work is centered on bridging technical model behavior with real-world operational, institutional, and regulatory requirements.
+
+My approach is grounded in 20+ years of experience in quality assurance, compliance monitoring, rubric-based evaluation, and risk assessment across banking, healthcare, and market research.
+
+---
+
+## Professional Experience
+
+| Role | Organization | Period |
+|------|-------------|--------|
+| Head of Internal Policies and HR | Crescent Care | Jun 2025 - Present |
+| Assistant Vice President | BankIslami | Jun 2021 - Jun 2025 |
+| Project Manager - Client Sales and Service | Nielsen | Jan 2007 - Sep 2019 |
+| Head of Quality Control - Field Operations | Nielsen | Jan 2004 - Dec 2006 |
 
 ---
 
@@ -45,6 +58,10 @@ This study analyzes **856 structured healthcare claims** using a hybrid evaluati
 
 The research highlights structural limitations in automated decision systems, particularly the inability to incorporate contextual urgency and policy-based exceptions in emergency scenarios.
 
+**Full paper:** [Read When AI Says No](https://salmanatiqueqa-sudo.github.io/ai-healthcare-risk/)
+
+---
+
 ### Risk-Tiered Safety Evaluation of Large Language Models in Finance and Healthcare
 
 This paper introduces a severity-aware framework to detect high-impact failures before deployment, shifting from capability metrics to risk-based validation.
@@ -56,6 +73,8 @@ This paper introduces a severity-aware framework to detect high-impact failures 
 | Low Risk | 1x weight | Informational error |
 
 Key finding: Models pass low-risk evaluations but fail under high-risk prompts - capability does not imply safety.
+
+**Full paper:** [Read Risk-Tiered Safety Evaluation](https://salmanatiqueqa-sudo.github.io/ai-llm-risk-evaluation/)
 
 ---
 
@@ -79,6 +98,7 @@ This work is aligned with established AI governance and safety frameworks:
 | **Risk Governance** | Alignment with regulatory and institutional frameworks |
 | **Healthcare AI** | Claims processing and emergency decision pathways |
 | **LLM Evaluation** | Context awareness, bias detection, and failure analysis |
+| **AI Quality Assurance** | Rubric design, HITL systems, output evaluation |
 
 ---
 
@@ -100,7 +120,7 @@ This work is aligned with established AI governance and safety frameworks:
 
 ## Collaboration
 
-Open to research collaboration, policy engagement, and applied work in AI safety, healthcare AI, and risk governance.
+Open to research collaboration, policy engagement, and applied work in AI safety, healthcare AI, AI quality assurance, and risk governance.
 
 ---
 
