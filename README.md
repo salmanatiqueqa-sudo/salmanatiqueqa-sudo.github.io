@@ -5,14 +5,17 @@
   No symbols - clean academic format
 -->
 
+<div style="padding-top: 20px;"></div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=500&color=F5A623&center=true&vCenter=true&width=700&lines=Salman+Atique;AI+Quality+Assurance+%7C+Risk+Evaluation+%7C+Safety+Researcher" alt="Salman Atique - AI Quality Assurance, Risk Evaluation, and Safety Researcher" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=500&color=F5A623&center=true&vCenter=true&width=700&lines=Salman+Atique;AI+Quality+Assurance+%7C+Risk+Evaluation+%7C+Safety+Researcher" alt="Salman Atique" />
 </p>
 
 <p align="center">
   <em>Bridging technical model behavior with real-world operational, institutional, and regulatory requirements</em>
 </p>
 
+<br>
 <br>
 
 ## About Me
