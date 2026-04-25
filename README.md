@@ -2,6 +2,7 @@
   GitHub Profile README - Salman Atique
   Visual styling adapted from the AI Healthcare Risk research paper
   Displays as a clean, professional profile on GitHub
+  No symbols - clean academic format
 -->
 
 <p align="center">
@@ -14,13 +15,13 @@
 
 ---
 
-##  About Me
+## About Me
 
 I focus on **AI safety**, **risk evaluation**, and the **governance of large language models** in high-stakes domains, including healthcare and finance. My work is centered on bridging technical model behavior with real-world operational, institutional, and regulatory requirements.
 
 ---
 
-##  Research Focus
+## Research Focus
 
 - Risk-aware evaluation frameworks for AI decision systems
 - Context blindness and failure patterns in automated decision-making
@@ -29,7 +30,7 @@ I focus on **AI safety**, **risk evaluation**, and the **governance of large lan
 
 ---
 
-##  Current Research
+## Current Research
 
 ### When AI Says No: The Hidden Risk in Automated Healthcare Approvals
 
@@ -37,51 +38,51 @@ This study analyzes **856 structured healthcare claims** using a hybrid evaluati
 
 | Metric | Finding |
 |--------|---------|
-| Overall Error Rate | **12.3%** |
-| Emergency Cases Mishandled | **~1 in 7** |
-| Cancer Patients | **+89% denial likelihood** |
-| Age 65+ Error Rate | **18.7%** |
+| Overall Error Rate | **12.3 percent** |
+| Emergency Cases Mishandled | **approximately 1 in 7** |
+| Cancer Patients | **89 percent higher denial likelihood** |
+| Age 65 and Above Error Rate | **18.7 percent** |
 
 The research highlights structural limitations in automated decision systems, particularly the inability to incorporate contextual urgency and policy-based exceptions in emergency scenarios.
 
+### Risk-Tiered Safety Evaluation of Large Language Models in Finance and Healthcare
+
+This paper introduces a severity-aware framework to detect high-impact failures before deployment, shifting from capability metrics to risk-based validation.
+
+| Risk Tier | Weight | Example Failure |
+|-----------|--------|-----------------|
+| High Risk | 10x weight | Fraud enablement, unsafe medical guidance |
+| Medium Risk | 3x weight | Ambiguous loan advice |
+| Low Risk | 1x weight | Informational error |
+
+Key finding: Models pass low-risk evaluations but fail under high-risk prompts - capability does not imply safety.
+
 ---
 
-##  Framework Alignment
+## Framework Alignment
 
 This work is aligned with established AI governance and safety frameworks:
 
 | Framework | Focus Area |
 |-----------|------------|
 | **NIST AI RMF 1.0** | Risk identification, measurement, and mitigation |
-| **WHO Ethics & Governance of AI for Health (2021)** | Transparency, accountability, human oversight |
-| **FDA GMLP (Good Machine Learning Practice)** | Lifecycle validation and safety monitoring |
+| **WHO Ethics and Governance of AI for Health (2021)** | Transparency, accountability, human oversight |
+| **FDA Good Machine Learning Practice** | Lifecycle validation and safety monitoring |
 
 ---
 
-##  Focus Areas
+## Focus Areas
 
-<table>
-  <tr>
-    <td><strong> AI Safety</strong></td>
-    <td>High-severity decision systems</td>
-  </tr>
-  <tr>
-    <td><strong> Risk Governance</strong></td>
-    <td>Alignment with regulatory and institutional frameworks</td>
-  </tr>
-  <tr>
-    <td><strong> Healthcare AI</strong></td>
-    <td>Claims processing and emergency decision pathways</td>
-  </tr>
-  <tr>
-    <td><strong> LLM Evaluation</strong></td>
-    <td>Context awareness, bias detection, and failure analysis</td>
-  </tr>
-</table>
+| Area | Application |
+|------|-------------|
+| **AI Safety** | High-severity decision systems |
+| **Risk Governance** | Alignment with regulatory and institutional frameworks |
+| **Healthcare AI** | Claims processing and emergency decision pathways |
+| **LLM Evaluation** | Context awareness, bias detection, and failure analysis |
 
 ---
 
-##  Contact
+## Contact
 
 <p align="left">
   <a href="mailto:salman.atique.qa@gmail.com">
@@ -97,9 +98,9 @@ This work is aligned with established AI governance and safety frameworks:
 
 ---
 
-##  Collaboration
+## Collaboration
 
-> *Open to research collaboration, policy engagement, and applied work in AI safety, healthcare AI, and risk governance.*
+Open to research collaboration, policy engagement, and applied work in AI safety, healthcare AI, and risk governance.
 
 ---
 
