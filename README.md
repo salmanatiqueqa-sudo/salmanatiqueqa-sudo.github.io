@@ -1,21 +1,18 @@
-<!-- 
-  GitHub Profile README - Salman Atique
-  Visual styling adapted from the AI Healthcare Risk research paper
-  Displays as a clean, professional profile on GitHub
-  No symbols - clean academic format
--->
+&nbsp;
 
-<div style="padding-top: 20px;"></div>
+&nbsp;
+
+&nbsp;
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=500&color=F5A623&center=true&vCenter=true&width=700&lines=Salman+Atique;AI+Quality+Assurance+%7C+Risk+Evaluation+%7C+Safety+Researcher" alt="Salman Atique" />
+  <strong style="font-size: 28px; color: #F5A623;">Salman Atique</strong><br>
+  <em>AI Quality Assurance | Risk Evaluation | Safety Researcher</em>
 </p>
 
 <p align="center">
   <em>Bridging technical model behavior with real-world operational, institutional, and regulatory requirements</em>
 </p>
 
-<br>
 <br>
 
 ## About Me
